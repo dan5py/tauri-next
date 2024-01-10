@@ -1,0 +1,29 @@
+# Next.js
+.next
+.cache
+public
+next-env.d.ts
+out
+
+# Node
+node_modules
+
+# NPM
+npm-debug.log*
+npm-err.log*
+package-lock.json
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+# PNPM
+pnpm-lock.yaml
+
+# Misc
+.husky
+.github
+
+# Tauri
+src-tauri/target
