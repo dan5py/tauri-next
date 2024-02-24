@@ -12,6 +12,8 @@
     "postinstall": "husky install"
   },
   "dependencies": {
+    "@tauri-apps/api": "^2.0.0-alpha.13",
+    "@tauri-apps/plugin-shell": "^2.0.0-alpha.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.298.0",
@@ -19,9 +21,7 @@
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.1.0",
-    "tailwindcss-animate": "^1.0.7",
-    "@tauri-apps/api": "^2.0.0-alpha.13",
-    "@tauri-apps/plugin-shell": "^2.0.0-alpha.3"
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
@@ -35,8 +35,6 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.0.1",
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
     "next-themes": "^0.2.1",
