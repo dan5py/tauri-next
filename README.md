@@ -5,7 +5,7 @@
 This is a Tauri app template that uses [Next.js](https://nextjs.org/) as frontend framework.
 
 > [!WARNING]
-> This template uses [Tauri v2](https://beta.tauri.app/) which is still in alpha. It is not recommended to use this template for production apps.
+> This template uses [Tauri v2](https://beta.tauri.app/) which is still in beta. It is not recommended to use this template for production apps.
 
 ## Features
 
